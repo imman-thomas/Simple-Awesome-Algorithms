@@ -1,3 +1,7 @@
+#PRIME NUMBER GENERATOR:
+# Erastosthenes provides algorithm to find prime number for a given specific range
+# This is an implementation of Erastosthenes algorithm
+
 import math
 
 print("Eratosthenes")
